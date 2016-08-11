@@ -1,0 +1,13 @@
+body {
+  font-size: 14px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+h1, h2 {
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 42px;
+  color: #000000;
+}

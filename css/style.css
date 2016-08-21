@@ -390,7 +390,7 @@ h2 {
   background-color: #000000;
   transform: rotate(45deg);
 }
-.breadcrumbs p {
+.breadcrumbs .last-par {
   color: #aba9a7;
   margin: 0;
 }

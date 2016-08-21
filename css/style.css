@@ -536,7 +536,7 @@ input[type="radio"]:disabled + label::after {
   float: right;
 }
 .products-column-right .price {
-  padding: 8px 27px;
+  padding: 8px 5px;
   font-size: 14px;
 }
 .set-includes {
@@ -616,7 +616,11 @@ input[type="radio"]:disabled + label::after {
 }
 .price {
   display: inline-block;
-  padding: 11px 27px;
+  box-sizing: border-box;
+  width: 109px;
+  height: 40px;
+  text-align: center;
+  padding: 11px 5px;
   margin: 0;
   background-color: #e5e5e5;
   color: #000000;

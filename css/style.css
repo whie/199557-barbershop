@@ -190,8 +190,11 @@ h2 {
 .news-preview li {
   margin-bottom: 25px;
 }
-.news-preview p {
+.news-preview a {
+  display: block;
   margin-bottom: 0;
+  text-decoration: none;
+  color: #000000;
 }
 .news-preview time {
   text-transform: none;

@@ -575,6 +575,9 @@ input[type="radio"]:disabled + label::after {
   background-color: #ffffff;
   box-shadow: 0 0 15px -5px #000101;
 }
+.product-card > a {
+  display: block;
+}
 .product-card img {
   height: 165px;
   font-size:0;
